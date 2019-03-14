@@ -1,0 +1,7 @@
+<library path="lib/libstepback_recovery">
+  <class name="stepback_recovery/StepbackRecovery" type="stepback_recovery::StepbackRecovery" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      A recovery behavior that performs stepback safty place.
+    </description>
+  </class>
+</library>
